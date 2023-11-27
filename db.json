@@ -4,47 +4,52 @@
           "name": "Masala Egg Curry Yellow Dal Tadka Paratha Thali",
           "imageURL": "https://curefoods-images.eatfit.in/tr:w-295,ar-1.33/image/singles/eat/meals/EAT6221/primary/4_1.jpg",
           "price": 175,
-          "nutritionalInfo": "High protein",
+          "dietary": "High protein",
           "description": "Want a meal that's nutritious yet light on your stomach? This thali of egg curry, dal tadka, and soft whole wheat parathas, served with cucumber carrot salad, sirka onions, is packed with deliciousness."
         },
         {
           "name": "Butter Paneer Dal Makhani Paratha Thali",
           "imageURL": "https://curefoods-images.eatfit.in/tr:w-295,ar-1.33/image/singles/eat/meals/EAT6215/primary/5_1.jpg",
           "price": 175,
-          "nutritionalInfo": "High protein",
+          "dietary": "High protein",
           "description": "Want a meal that's nutritious yet light on your stomach? This thali of butter paneer, dal makhani, and soft whole wheat parathas, served with cucumber carrot salad, sirka onions, is packed with deliciousness."
         },
         {
           "name": "Butter Paneer Deluxe Thali",
-          "imageURL": "https://curefoods-images.eatfit.in/tr:w-600,ar-0.8,c_fit//image/singles/eat/meals/EAT6854/primary/7_1.jpg",
+          "imageURL": "https://curefoods-https://curefoods-images.eatfit.in/tr:w-600,ar-0.8,c_fit//image/singles/eat/meals/EAT6854/primary/7_1.jpg",
           "price": 299,
-          "nutritionalInfo": "High protein",
+          "dietary": "High protein",
           "description": "Grab this sumptuous thali of soft parathas, jeera pulao, butter paneer, dal makhani, aloo gobhi adraki, salad, and badam kheer. Served with pickle of the day."
         },
         {
-          "imageURL": "https://curefoods-images.eatfit.in/tr:w-295,ar-1.33/image/singles/eat/meals/EAT6930/primary/2_1.jpg",
           "name": "Yellow Dal Tadka Kaddu ki Sabzi Paratha Thali",
+          "imageURL": "https://curefoods-images.eatfit.in/tr:w-295,ar-1.33/image/singles/eat/meals/EAT6930/primary/2_1.jpg",
           "price": 175,
+          "dietary": "Cal",
           "description": "Enjoy scoops of soft parathas with yellow dal tadka and kaddu ki sabzi. Served with pickle of the day."
         },
         {
-          "imageURL": "https://curefoods-images.eatfit.in/tr:w-295,ar-1.33/image/singles/eat/meals/HPS85/primary/4_1.jpg",
           "name": "Paneer Masala with Steamed Rice",
+          "imageURL": "https://curefoods-images.eatfit.in/tr:w-295,ar-1.33/image/singles/eat/meals/HPS85/primary/4_1.jpg",
           "price": 179,
+          "dietary": "High fibre",
           "description": "Enjoy paneer cooked in rich & tasty tomato onion gravy with spices & cream, served with steamed rice. A hearty meal for 1."
         },
         {
-          "imageURL": "https://curefoods-images.eatfit.in/tr:w-600,ar-0.8,c_fit//image/singles/eat/meals/EAT6844/primary/1_1.jpg",
           "name": "Dal Makhani Butter Paneer Pulao Thali",
+          "imageURL": "https://curefoods-images.eatfit.in/tr:w-600,ar-0.8,c_fit//image/singles/eat/meals/EAT6844/primary/1_1.jpg",
           "price": 200,
-          "description": "A buttery rice thali delight! Creamy dal makhani, butter paneer and ghee-ful jeera pulao. Served with pickle of the day."
+          "dietary": "High protein",
+          "description": "A buttery rice thali delight! Creamy dal makhani, butter paneer, and ghee-ful jeera pulao. Served with pickle of the day."
         },
         {
-          "imageURL": "https://curefoods-images.eatfit.in/tr:w-295,ar-1.33/image/singles/eat/meals/HPS303/primary/2_1.jpg",
           "name": "Masala Veggie Dal Tadka Meal",
+          "imageURL": "https://curefoods-images.eatfit.in/tr:w-295,ar-1.33/image/singles/eat/meals/HPS303/primary/2_1.jpg",
           "price": 219,
+          "dietary": "Cal",
           "description": "A flavorful, tangy gravy made with mixed vegetables like french beans, sweet corn, and carrot eaten along with dal tadka and whole wheat parathas."
         }
       ]
+      
       
 }
